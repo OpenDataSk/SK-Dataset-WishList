@@ -14,6 +14,13 @@ Keďže je to wishlist, tak je určený primárne na inšpiráciu a ukazovanie, 
 
 ## Ako s wishlistom pracovať
 
+### Prezeranie
+
+- cez GitHub: kliknúť na [Issues](../../issues)
+- cez Waffle.io: https://waffle.io/OpenDataSk/SK-Dataset-WishList
+
+### Pridávanie
+
 Wishlist realizujeme na báze tzv. issue trackera na GitHub-e, čiže ak máte želanie alebo potrebu ohľadom zverejnenia nejakého datasetu niekým, tak:
 
 1. pozrite sa, či už požiadavka (issue) náhodou existuje - ak áno, pridajte sa k nej zanechaním nejakého komentára (napr. "tento by som chcel aj ja")

@@ -2,11 +2,11 @@
 
 ## Short description (ENG)
 
-This is a wishlist of datasets which Slovak citizens would like to see published.
+This is a wishlist of datasets which Slovak citizens would like to see published as [Open Data](http://opendefinition.org/).
 
 ## Popis (SK)
 
-Toto je tzv. "wish list" datasetov o SR alebo z SR, ktoré by občania SR príp. iných krajín radi videli zverejnené v podobe Open Data.
+Toto je tzv. "wish list" datasetov o SR alebo z SR, ktoré by občania SR príp. iných krajín radi videli zverejnené v podobe [otvorených údajov](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2014/55/20160701#paragraf-52).
 
 Aktuálne (k roku 2016) je primárnym cieľom zbierať podnety od občanov ohľadom datasetov ktoré by mala zverejniť verejná správa SR. Ale prijímame aj podnety na datasety od iných subjektov (firmy, NGO, a pod.).
 
